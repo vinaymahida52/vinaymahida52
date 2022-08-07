@@ -1,10 +1,8 @@
 <h1 align="center">HOLA 👋, I'm Vicky Mahida</h1>
 <h3 align="center">Studying Computer Application at Parul University Vadodara, Gujarat, India.</h3>
-<img align="right" alt="Coding" width="400" src="https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif">
+<img align="right" alt="Coding" width="1000" src="https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaymahida52&label=Profile%20views&color=0e75b6&style=flat" alt="vinaymahida52" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaymahida52" alt="vinaymahida52" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vickymahida05" target="blank"><img src="https://img.shields.io/twitter/follow/vickymahida05?logo=twitter&style=for-the-badge" alt="vickymahida05" /></a> </p>
 
